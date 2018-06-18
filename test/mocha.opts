@@ -1,0 +1,4 @@
+--require ./test/setup.js
+--timeout 20000
+--recursive
+--reporter mocha-multi --reporter-options spec=-,mocha-allure-reporter=-

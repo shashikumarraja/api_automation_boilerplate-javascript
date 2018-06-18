@@ -1,0 +1,15 @@
+{
+    "extends": ["mocha","eslint:recommended"],
+      "globals": {
+          "faker": false,
+          "baseUrl": false,
+          "testData": false,
+          "apiEndPoint": false,
+          "colors": false,
+          "responseMessage": false,
+          "tokens":false,
+          "logger": false,
+          "winston": false
+      }
+  }
+  
