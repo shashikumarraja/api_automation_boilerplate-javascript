@@ -17,7 +17,7 @@ Choose one of the following options:
 1. Download the latest stable release or clone the git repo — `git clone repoName`
 
 2. Then:
-- Copy the files to your project into a directory like `/apiAutomation`
+- Copy the files to your project into a directory like `/api_automation_boilerplate-javascript`
 
 3. Install the dependencies (`yarn install`) or (`npm install`)
 
@@ -44,10 +44,15 @@ describe('My First test', () => {
 Traverse to the project directory
 
 ```sh
-$ cd apiAutomation
+$ cd api_automation_boilerplate-javascript
+```
+One one tab run faker api :
+
+```sh
+$ npm run fakeApi
 ```
 
-To run your tests just call :
+In another tab execute the test run using :
 
 ```sh
 $ npm test

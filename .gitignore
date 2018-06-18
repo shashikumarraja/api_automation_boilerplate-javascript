@@ -2,3 +2,4 @@ node_modules
 allure-results/
 apiDoc/
 npm-debug.log.*
+allure-report
