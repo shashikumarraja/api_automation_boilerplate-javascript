@@ -1,5 +1,5 @@
 const {callCreateSuperheroApi,getRequestBody} = require('../support/apis/createSuperhero.js');
- describe('POST Request', function () {
+ describe('Create Superhero', function () {
         let name = testData.name;
         let fName = testData.fName;
         let lName = testData.lName;

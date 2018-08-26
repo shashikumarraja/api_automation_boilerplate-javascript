@@ -46,7 +46,7 @@ Traverse to the project directory
 ```sh
 $ cd api_automation_boilerplate-javascript
 ```
-One one tab run faker api :
+On one tab run faker api(Using the [json-server](https://github.com/typicode/json-server) module we are creating fake api for testing purpose) :
 
 ```sh
 $ npm run fakeApi
